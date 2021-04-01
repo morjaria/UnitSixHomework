@@ -4,7 +4,8 @@
 *[San Francisco Park Reading by Juan Salamanca](https://www.pexels.com/photo/park-san-francisco-reading-61109/) | [Free License](https://www.pexels.com/photo-license/)*
 
 ## Dashboard
-* The dashboard can be viewed and interacted at : https://morjaria.github.io/UnitSixHomework/Submission/Output/dashboard.html
+
+* **The dashboard can be viewed and interacted with at : [Dashboard Live Link](https://morjaria.github.io/UnitSixHomework/Submission/Output/dashboard.html)**
 * As Bokeh is not loaded on Github, the dashboard HTML is available in the Output folder under Sunmission: [Final Dashboard](Submission/Output/dashboard.html). 
 
 ## Background
