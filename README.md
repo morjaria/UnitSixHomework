@@ -28,5 +28,9 @@ In this homework assignment, you will help Harold accomplish the following tasks
 All are in Submission folder
 
 * [Rental Analysis](Submission/rental_analysis.ipynb)
-* [Dashboard](Submission/dashboard.ipynb)
+* [Dashboard Notebook](Submission/dashboard.ipynb)
 * [Data frame write to csv](Submission/Output/avg_housing_units.csv)
+
+
+## Dashboard
+* As Bokeh is not loaded on Github, the dashboard HTML is available in the Output folder under Sunmission: [Final Dashboard](Submission/Output/dashboard.html)
