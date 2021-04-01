@@ -3,6 +3,10 @@
 ![San Francisco Park Reading](Images/san-francisco-park-reading.jpg)
 *[San Francisco Park Reading by Juan Salamanca](https://www.pexels.com/photo/park-san-francisco-reading-61109/) | [Free License](https://www.pexels.com/photo-license/)*
 
+## Dashboard
+* The dashboard can be viewed and interacted at : https://morjaria.github.io/UnitSixHomework/Submission/Output/dashboard.html
+* As Bokeh is not loaded on Github, the dashboard HTML is available in the Output folder under Sunmission: [Final Dashboard](Submission/Output/dashboard.html). 
+
 ## Background
 
 Harold's company has just started a new Real Estate Investment division to provide customers with a broader range of portfolio options. Harold was tasked with building a prototype dashboard and he needs your help. The real estate team wants to trial this initial offering with investment opportunities for the San Francisco market. If the new service is popular, then they can start to expand to other markets.
@@ -30,7 +34,7 @@ All are in Submission folder
 * [Rental Analysis](Submission/rental_analysis.ipynb)
 * [Dashboard Notebook](Submission/dashboard.ipynb)
 * [Data frame write to csv](Submission/Output/avg_housing_units.csv)
+* [Final Dashboard Expport](Submission/Output/dashboard.html) 
+* The dashboard can be viewed and interacted at : [Dashboard Live Link](https://morjaria.github.io/UnitSixHomework/Submission/Output/dashboard.html)
 
 
-## Dashboard
-* As Bokeh is not loaded on Github, the dashboard HTML is available in the Output folder under Sunmission: [Final Dashboard](Submission/Output/dashboard.html)
